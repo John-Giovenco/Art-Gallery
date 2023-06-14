@@ -1,4 +1,4 @@
-import { configureStore } from '@reduxjs/toolkit'
+import { configureStore } from 'react'
 import dataReducer from './features/dataSlice'
 import { logger } from './features/middleware'
 

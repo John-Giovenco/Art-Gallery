@@ -1,4 +1,4 @@
-import { createSlice } from '@reduxjs/toolkit'
+import { createSlice } from 'react'
 
 const initialState = {
     objectId: 10245,
